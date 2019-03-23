@@ -1,0 +1,31 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+<html>
+<head>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251" />
+	<TITLE>SEO Street - лучшие наработки для вашего бизнеса. Поможем улучшить ваш сайт в оптимальные сроки! | SEO Street</TITLE>
+	<style>
+		body {margin:0;padding:0;font: 12px Tahoma;}
+		h1 {font-size:20px;color:#1F84FF;margin-bottom:20px;margin-top:0;font-weight:normal;line-height:30px;}
+		a {color:#1873b4;}
+		div {width: 700px;margin: 100px auto 0 auto;padding-top: 50px;height: 120px;line-height: 150%;}
+	</style>
+</head>
+<body>
+<div>
+	<h1>Приветствуем вас на нашем сайте. В данный момент сайт находится в разработке. </h1>
+	<p>Предлагаем вашему вниманию наш блог: https://seostreetco.wordpress.com/</p>
+<ul>
+	<li><a href="https://www.facebook.com/seo.street.co">Мы в facebook</a></li>
+	<li><a href="https://twitter.com/seo_street">Мы в twitter</a></li>
+	<li><a href="https://www.linkedin.com/in/seo-street-company/?trk=aff_src.aff-lilpar_c.partners_pkw.10078_net.mediapartner_plc.Skimbit%20Ltd._pcrid.449670_learning&veh=aff_src.aff-lilpar_c.partners_pkw.10078_net.mediapartner_plc.Skimbit%20Ltd._pcrid.449670_learning&irgwc=1">Мы в linkedin</a></li>
+	<li><a href="https://vk.com/seostreet">Мы в vk</a></li>
+	<li><a href="https://www.instagram.com/seostreet/">Мы в instagram</a></li>
+	<li><a href="https://www.pinterest.com/seostreetcompany/">Мы в pinterest</a></li>
+	<li><a href="https://www.youtube.com/channel/UCUHH31Bl04Nv_fiZpAU7mng">Наш youtube-канал</a></li>
+	</ul>
+</div>
+	
+	
+</body>
+</html>
